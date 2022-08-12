@@ -7,5 +7,7 @@ This tool was created to help aid in selecting the optimal lineup for your fanta
 ## Tools
 
 - [JupyterLab](https://jupyter.org/install)
+- [Gazpacho](https://pypi.org/project/gazpacho/) (Web Scraping)
+- [pandas](https://pandas.pydata.org/) (Analysis)
 
 
